@@ -1,3 +1,19 @@
+/*
+
+Senza usare le funzioni di libreria string.h, scrivere un programma strutturato
+in sottoprogrammi che esegua le seguenti operazioni sulle stringhe.
+• Legga dallo stdin due stringhe s1 e s2 e le visualizzi.
+• Calcoli la lunghezza delle due stringhe.
+• Confronti s1 e s2 assegnando alla variabile risultato_confronto il valore <0
+se s1<s2, 0 se s1==s2, >0 se s1>s2.
+• Copi la stringa s1 nella stringa s3 e la stringa s2 nella stringa s4.
+• Concateni le stringhe s3 e s4.
+NB: Si consideri una stringa come un array di caratteri che ha il carattere
+terminale \0
+
+ */
+
+
 #include <iostream>
 
 using namespace std;
