@@ -1,0 +1,3 @@
+C:/Users/mario/CLionProjects/operazioni_su_stringhe_Eser6.6/cmake-build-debug/CMakeFiles/operazioni_su_stringhe_Eser6_6.dir
+C:/Users/mario/CLionProjects/operazioni_su_stringhe_Eser6.6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mario/CLionProjects/operazioni_su_stringhe_Eser6.6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
